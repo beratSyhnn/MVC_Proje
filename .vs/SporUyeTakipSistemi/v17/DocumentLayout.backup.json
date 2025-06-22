@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|c:\\users\\burak\\source\\repos\\sporuyetakipsistemi\\sporuyetakipsistemi\\views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|solutionrelative:sporuyetakipsistemi\\views\\home\\iletisim.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|c:\\users\\burak\\source\\repos\\sporuyetakipsistemi\\sporuyetakipsistemi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|solutionrelative:sporuyetakipsistemi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|c:\\users\\burak\\source\\repos\\sporuyetakipsistemi\\sporuyetakipsistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|solutionrelative:sporuyetakipsistemi\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|c:\\users\\burak\\source\\repos\\sporuyetakipsistemi\\sporuyetakipsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|solutionrelative:sporuyetakipsistemi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|c:\\users\\burak\\source\\repos\\sporuyetakipsistemi\\sporuyetakipsistemi\\views\\uye\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|solutionrelative:sporuyetakipsistemi\\views\\uye\\listele.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|c:\\users\\burak\\source\\repos\\sporuyetakipsistemi\\sporuyetakipsistemi\\controllers\\uyecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|solutionrelative:sporuyetakipsistemi\\controllers\\uyecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|c:\\users\\burak\\source\\repos\\sporuyetakipsistemi\\sporuyetakipsistemi\\views\\uye\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|solutionrelative:sporuyetakipsistemi\\views\\uye\\kayit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|c:\\users\\burak\\source\\repos\\sporuyetakipsistemi\\sporuyetakipsistemi\\models\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B132D67-03D4-472E-9AEE-F8CCC1FFA397}|SporUyeTakipSistemi\\SporUyeTakipSistemi.csproj|solutionrelative:sporuyetakipsistemi\\models\\uye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Iletisim.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Views\\Home\\Iletisim.cshtml",
+              "RelativeDocumentMoniker": "SporUyeTakipSistemi\\Views\\Home\\Iletisim.cshtml",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Views\\Home\\Iletisim.cshtml",
+              "RelativeToolTip": "SporUyeTakipSistemi\\Views\\Home\\Iletisim.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T13:24:02.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SporUyeTakipSistemi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SporUyeTakipSistemi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wBQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:39:32.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SporUyeTakipSistemi\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SporUyeTakipSistemi\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T12:28:34.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SporUyeTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SporUyeTakipSistemi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T12:31:37.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Listele.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Views\\Uye\\Listele.cshtml",
+              "RelativeDocumentMoniker": "SporUyeTakipSistemi\\Views\\Uye\\Listele.cshtml",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Views\\Uye\\Listele.cshtml",
+              "RelativeToolTip": "SporUyeTakipSistemi\\Views\\Uye\\Listele.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T12:27:23.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UyeController.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Controllers\\UyeController.cs",
+              "RelativeDocumentMoniker": "SporUyeTakipSistemi\\Controllers\\UyeController.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Controllers\\UyeController.cs",
+              "RelativeToolTip": "SporUyeTakipSistemi\\Controllers\\UyeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:20:25.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kayit.cshtml",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Views\\Uye\\Kayit.cshtml",
+              "RelativeDocumentMoniker": "SporUyeTakipSistemi\\Views\\Uye\\Kayit.cshtml",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Views\\Uye\\Kayit.cshtml",
+              "RelativeToolTip": "SporUyeTakipSistemi\\Views\\Uye\\Kayit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-15T12:25:17.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Uye.cs",
+              "DocumentMoniker": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Models\\Uye.cs",
+              "RelativeDocumentMoniker": "SporUyeTakipSistemi\\Models\\Uye.cs",
+              "ToolTip": "C:\\Users\\burak\\source\\repos\\SporUyeTakipSistemi\\SporUyeTakipSistemi\\Models\\Uye.cs",
+              "RelativeToolTip": "SporUyeTakipSistemi\\Models\\Uye.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T12:17:45.996Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

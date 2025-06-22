@@ -1,0 +1,38 @@
+﻿@model SporUyeTakipSistemi.Models.Uye
+
+<h2>Üye Kayıt Formu</h2>
+
+@using (Html.BeginForm())
+{
+    <label>Ad:</label>
+    <br />
+    @Html.TextBoxFor(m => m.Ad)
+    <br />
+    <br />
+
+    <label>Soyad:</label>
+    <br />
+    @Html.TextBoxFor(m => m.Soyad)
+    <br />
+    <br />
+
+    <label>TC Kimlik No:</label>
+    <br />
+    @Html.TextBoxFor(m => m.TCKimlik)
+    <br />
+    <br />
+
+    <label>Kayıt Tarihi:</label>
+    <br />
+    @Html.TextBoxFor(m => m.KayitTarihi, "{0:yyyy-MM-dd}", new { @type = "date" })
+    <br />
+    <br />
+
+    <label>Bitiş Tarihi:</label>
+    <br />
+    @Html.TextBoxFor(m => m.BitisTarihi, "{0:yyyy-MM-dd}", new { @type = "date" })
+    <br />
+    <br />
+
+    <input type="submit" value="Kaydet" />
+}
