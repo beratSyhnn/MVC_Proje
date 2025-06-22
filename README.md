@@ -1,18 +1,24 @@
-Spor Üye Takip Sistemi (ASP.NET MVC)
-Bu proje, okulda öğrendiğim ASP.NET MVC yapısını pekiştirmek için bireysel olarak geliştirdiğim basit bir spor salonu üye takip sistemidir.
-Eğitim ve portföy amacıyla hazırlanmıştır.
+# Spor Üye Takip Sistemi (ASP.NET MVC)
 
-🔹 Projede veritabanı bağlantısı yoktur.
-Veriler geçici olarak tutulur, sayfa yenilendiğinde silinir.
+Bu proje, okulda aldığımız bir derste dönem ödevi olarak geliştirdiğim  
+basit bir spor salonu üye takip uygulamasıdır.  
+ASP.NET MVC yapısını öğrenmek ve uygulamak için yapılmıştır.
 
-Ne Yapabiliyor?
-Yeni üye eklenebiliyor
+> ⚠️ **Veritabanı bağlantısı yoktur.**  
+> Üyeler geçici olarak bellekte tutulur.  
+> Sayfa yenilendiğinde ya da uygulama kapatıldığında veriler silinir.
 
-Eklenen üyeler listelenebiliyor
+---
 
-Arayüz sade tutuldu, ekstra tema ya da kütüphane kullanılmadı
+## ✅ Neler Yapılabilir?
 
-Kullandığım Teknolojiler
-ASP.NET MVC (C#)
+- Yeni üye ekleme  
+- Eklenen üyeleri listeleme  
+- Temel sistem arayüzü (tema veya kütüphane kullanılmadı)
 
-Razor View Engine
+---
+
+## 🛠️ Kullandığım Teknolojiler
+
+- ASP.NET MVC (C#)  
+- Razor View Engine
